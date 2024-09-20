@@ -5,7 +5,7 @@
 ![image](https://github.com/ELopez2657/SQL_proyect_3_Data_Cleaning_HR/assets/146747798/4f71d7ea-5554-4587-b6ac-ced63d1f52c2)
 
 
-The dataset for this project contains information about the payroll of a company's employees. The goal is to clean and prepare the data for analysis and then answer the following questions:
+The dataset for this project contains information about the payroll of a company's employees. The goal is to clean and prepare the data for analysis and then answer the following questions :
 
 1.	What is the age distribution of the company's employees ?
 
